@@ -34,7 +34,3 @@ Selama pengembangan aplikasi **Task Manager**, saya menggunakan **IBM Granite Mo
 
 IBM Granite mendukung proses belajar dan produktivitas saya dalam membangun aplikasi ini dari awal, membuat pengembangan lebih cepat dan terstruktur.
 
----
-
-##  License
-This project is open-source and free to use under the [MIT License](LICENSE).
