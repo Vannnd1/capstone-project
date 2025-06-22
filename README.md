@@ -20,8 +20,8 @@ Task Manager adalah aplikasi manajemen tugas berbasis web yang dirancang untuk m
 - Menampilkan 3 tugas terbaru pada Dashboard
 
 ##  Setup Instructions
-1. Clone repository ini atau unduh file `todo-list-app.html`.
-2. Buka file `todo-list-app.html` menggunakan browser (Chrome/Firefox).
+1. Clone repository ini atau unduh file `index.html`.
+2. Buka file `index.html` menggunakan browser (Chrome/Firefox).
 3. Tidak diperlukan server backend atau database eksternal — semua data tersimpan di `localStorage` browser.
 4. Siap digunakan!
 
